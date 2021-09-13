@@ -1,6 +1,6 @@
 # SQL_Data_Cleaning
 
-On a effectué du __data cleaning__ à ce source de données qui a permis de:  
+On a effectué du __data cleaning__ à cette source de données qui a permis de:  
 
 -Imputation univariée  
 -Décomposer l'adresse PropertyAddress en colonnes individuelles (adresse, ville, état) en utilisant __SUBSTRING, PARSENAME__  
