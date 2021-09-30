@@ -1,4 +1,4 @@
-# SQL_Data_Cleanin
+# SQL_Data_Cleaning
 
 On a effectué du __data cleaning__ à cette source de données qui a permis de:  
 
